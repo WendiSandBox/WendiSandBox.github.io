@@ -1,4 +1,3 @@
----
----
+baseurl: 
+exclude: ['README.md']
 
-include: ["footer.html", "header"]
