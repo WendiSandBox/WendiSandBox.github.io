@@ -7750,7 +7750,7 @@ blockquote .style-3 {
 .testimonial-image img {
 	width: auto !important;
 }
-.testimonial .fa.fa-quote-left .fa-book .fa-comments .fa-area-chart {
+.testimonial .fa.fa-quote-left.fa-book.fa-comments.fa-area-chart {
 	color: #ed133e;
 	font-size: 50px;
 	margin-bottom: 10px;
@@ -7786,7 +7786,7 @@ blockquote .style-3 {
 	color: #fff;
 	font-style: italic;
 }
-.testimonial.dark-grey-bg.style-2 .testimonial-quote .fa.fa-quote-right {
+.testimonial.dark-grey-bg.style-2 .testimonial-quote .fa.fa-quote-right.fa-book.fa-comments.fa-area-chart {
 	color: #fff;
 	margin-bottom: 15px;
 }
@@ -8036,13 +8036,13 @@ blockquote .style-3 {
 .testimonial.dark-grey-bg.style-3 .fa.fa-quote-left  {
 	color: #616161;
 }
-.testimonial.dark-grey-bg.style-3 .fa-area-chart {
+.testimonial.dark-grey-bg.style-3 .fa.fa-area-chart {
 	color: #616161;
 }
-.testimonial.dark-grey-bg.style-3 .fa-comments .fa-book {
+.testimonial.dark-grey-bg.style-3 .fa.fa-comments {
 	color: #616161;
 }
-.testimonial.dark-grey-bg.style-3 .fa-book {
+.testimonial.dark-grey-bg.style-3 .fa.fa-book {
 	color: #616161;
 }
 .testimonial.dark-grey-bg.style-3 .slick-center .fa.fa-quote-left .fa-area-chart .fa-comments .fa-book {
