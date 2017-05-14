@@ -7750,7 +7750,7 @@ blockquote .style-3 {
 .testimonial-image img {
 	width: auto !important;
 }
-.testimonial .fa.fa-quote-left.fa-book.fa-comments.fa-area-chart {
+.testimonial .fa.fa-quote-left .fa.fa-book .fa.fa-comments .fa.fa-area-chart {
 	color: #ed133e;
 	font-size: 50px;
 	margin-bottom: 10px;
