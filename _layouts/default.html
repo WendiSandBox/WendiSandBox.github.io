@@ -64,7 +64,8 @@
     <!-- Header -->
     <header id="header" class="header-dark header-transparent header-navigation-light">
         <div id="header-wrap">
-            <div class="container">            
+            
+	    <div class="container">            
             <!--LOGO-->
             <div id="logo">
                 <a href="index.html" class="logo" data-dark-logo="images/logo.png">
@@ -75,6 +76,13 @@
             <!--MOBILE MENU -->
             <div class="nav-main-menu-responsive">
                 <button class="lines-button x" type="button" data-toggle="collapse" data-target=".main-menu-collapse"> <span class="lines"></span> </button>
+            </div>
+            
+            <!--TOP SEARCH -->
+            <div id="top-search"> <a id="top-search-trigger"><i class="fa fa-search"></i><i class="fa fa-close"></i></a>
+                <form action="search-results-page.html" method="get" data-toggle="validator">
+                    <input type="text" name="q" id="q" class="form-control" value="" placeholder="Start typing & press  &quot;Enter&quot;" required>
+                </form>
             </div>
             
             <!--NAVIGATION-->
