@@ -8033,10 +8033,10 @@ blockquote .style-3 {
 .testimonial.dark-grey-bg.style-3 .slick-slide.slick-current.slick-active.slick-center .testimonial-detail {
 	background: #303030;
 }
-.testimonial.dark-grey-bg.style-3 .fa.fa-quote-left {
+.testimonial.dark-grey-bg.style-3 .fa.fa-quote-left .fa-area-chart .fa-comments .fa-book {
 	color: #616161;
 }
-.testimonial.dark-grey-bg.style-3 .slick-center .fa.fa-quote-left {
+.testimonial.dark-grey-bg.style-3 .slick-center .fa.fa-quote-left .fa-area-chart .fa-comments .fa-book {
 	color: #fff;
 }
 .testimonial.dark-grey-bg.style-3 .slick-slide.slick-current.slick-active.slick-center .testimonial-detail {
